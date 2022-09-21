@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: whitesmoke;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 25px;
+    color: indigo;
+}
+
+h2 {
+    font-size: 1.7em;
+    color: blueviolet;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+table, td, th {
+    border: 2px solid indigo
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 650px;
+    margin: 0 auto;
+
+}
+
+.code {
+    font-family: monospace;
+    background-color: thistle;
+}
+
+th {
+    background-color: mediumorchid;
+}
